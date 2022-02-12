@@ -1,0 +1,270 @@
+.dpr-wrap {
+    background: #333;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 25px 15px !important;
+    border-radius: 3px;
+}
+
+.dpr-wrap h1,
+.dpr-wrap h2,
+.dpr-wrap h3,
+.dpr-wrap h4,
+.dpr-wrap h5,
+.dpr-wrap h6,
+.dpr-wrap p,
+.dpr-wrap q,
+.dpr-wrap span,
+.dpr-wrap h1 {
+    color: #d2d2d2 !important;
+}
+
+.dpr-wrap pre,
+.dpr-wrap code {
+    background: #292929;
+}
+
+.dpr-wrap .dpr-switch-tab-wrap {
+    border: 1px solid #000;
+    background: #1d1d1d;
+}
+
+.dpr-wrap .dpr-switch-tab-wrap .dpr-switch-tab a.dpr-active-tab {
+    background: #333;
+    box-shadow: none;
+    border-color: #000;
+    border-bottom-color: #333;
+    color: #fff;
+}
+
+.dpr-wrap .dpr-discu-box-footer {
+    background: #181818;
+    border-color: #000;
+    color: #d2d2d2;
+}
+
+.dpr-wrap .dpr-discu-inreplyto,
+.dpr-wrap .dpr-discu-metadata {
+    background: #0c0c0c;
+    border-color: #000;
+    color: #d2d2d2;
+}
+
+.dpr-wrap .dpr-discu-box,
+.dpr-wrap .dpr-most-recent-authors,
+.dpr-wrap .dpr-join-form-inner,
+.dpr-wrap .dpr-join-form-wrap {
+    background: #1d1d1d;
+    border-color: #000;
+    color: #d2d2d2;
+}
+
+.dpr-wrap .dpr-join-form button.comment-toggle {
+    background: #000;
+    border-color: #333;
+}
+
+.dpr-wrap .dpr-discu-box:after {
+    border-color: transparent #1d1d1d transparent transparent;
+}
+
+.dpr-wrap .dpr-discu-box:before {
+    border-color: transparent #000 transparent transparent;
+}
+
+.dpr-wrap .dpr-discu-metadata-share-wrap .dpr-discu-sharing {
+    background: #1d1d1d;
+    border-color: #333;
+}
+
+.dpr-wrap .dpr-discu-metadata-share-wrap .dpr-discu-sharing:before,
+.dpr-wrap .dpr-msgbox:before {
+    border-color: #333 transparent transparent;
+}
+
+.dpr-wrap .dpr-discu-metadata-share-wrap .dpr-discu-sharing:after,
+.dpr-wrap .dpr-msgbox:after {
+    border-color: #1d1d1d transparent transparent;
+}
+
+.dpr-wrap .dpr-discu-text p {
+    color: #d2d2d2;
+}
+
+.dpr-wrap .dpr-join-form-login-register a.dpr-logout-a,
+.dpr-wrap .dpr-discu-box i,
+.dpr-wrap .dpr-topic-box i,
+.dpr-wrap .dpr-discu-box-footer i,
+.dpr-wrap .dpr-discu-metadata i,
+.dpr-wrap .dpr-discu-box-footer a,
+.dpr-wrap .dpr-discu-metadata a {
+    color: #fff;
+}
+
+.dpr-wrap .dpr-discu-dislike-count,
+.dpr-wrap .dpr-discu-like-count,
+.dpr-wrap .dpr-discu-replies-count,
+.dpr-wrap .dpr-discu-share-count,
+.dpr-wrap .dpr-topic-last-reply-time,
+.dpr-wrap .dpr-topic-views-count {
+    background: #333;
+    color: #d2d2d2;
+}
+
+.dpr-wrap .dpr-discu-inreplyto span,
+.dpr-wrap .dpr-discu-inreplyto i {
+    color: #808080 !important;
+}
+
+/* Editor */
+.dpr-wrap .mce-stack-layout-item {
+    filter: invert(1);
+}
+
+.dpr-wrap .dpr-wrap .mce-panel {
+    border-color: #333 !important;
+}
+
+.dpr-wrap .mce-tinymce.mce-panel {
+    border: 1px solid #4c4c4c !important;
+}
+
+.dpr-wrap .mce-tinymce.mce-panel {
+    box-shadow: unset !important;
+}
+
+.mce-menu,
+.dpr-wrap .mce-btn,
+.dpr-wrap input[type=submit],
+.dpr-wrap .dpr_add_reply_comment,
+.dpr-wrap .dpr_cancel_comment,
+.dpr-wrap .dpr_cancel_reply_comment,
+.dpr-wrap .dpr_edit_comment {
+    background: #171717 !important;
+    box-shadow: unset !important;
+    border-color: #333 !important;
+}
+
+.mce-menu-item.mce-selected,
+.dpr-wrap input[type=submit]:hover,
+.dpr-wrap .dpr_add_reply_comment:hover,
+.dpr-wrap .dpr_cancel_comment:hover,
+.dpr-wrap .dpr_cancel_reply_comment:hover,
+.dpr-wrap .dpr_edit_comment:hover {
+    background: #000 !important;
+}
+
+.dpr-wrap .mce-btn {
+    border-color: #000 !important;
+}
+
+.mce-menu-item:hover,
+.mce-menu-item:focus,
+.mce-menu-item.mce-menu-item-preview.mce-active,
+.dpr-wrap .mce-btn-small button:hover,
+.dpr-wrap .mce-btn-small:focus button,
+.dpr-wrap .mce-btn-small:active button {
+    background-color: #000 !important;
+    color: #d2d2d2 !important;
+}
+
+.dpr-wrap.dpr-template-n2 {
+    background: #1d1d1d;
+}
+
+.dpr-wrap.dpr-template-n2 .dpr-discu-box-footer {
+    background: #1d1d1d;
+}
+
+.dpr-wrap.dpr-template-n2 .dpr-discu-wrap {
+    border-color: #555;
+}
+
+.dpr-wrap.dpr-template-n4,
+.dpr-template-n4 .dpr-discu-wrap,
+.dpr-template-n4 .dpr-discu-wrap .dpr-discu-box,
+.dpr-wrap.dpr-template-n2 .dpr-discu-box-footer {
+    background: #000;
+}
+
+.dpr-wrap .dpr-submit-form-fields {
+    border-top: 1px solid #000;
+    background: #000;
+}
+
+.dpr-wrap .dpr-submit-form-fields-c i,
+.dpr-modal-cntt input[type=email],
+.dpr-modal-cntt input[type=number],
+.dpr-modal-cntt input[type=password],
+.dpr-modal-cntt input[type=text],
+.dpr-modal-cntt input[type=url],
+.dpr-modal-cntt textarea,
+.dpr-wrap input[type=email],
+.dpr-wrap input[type=number],
+.dpr-wrap input[type=password],
+.dpr-wrap input[type=text],
+.dpr-wrap input[type=url],
+.dpr-wrap textarea {
+    border: 1px solid #111;
+    color: #d2d2d2;
+    background: #1d1d1d;
+}
+
+.dpr-wrap .dpr-submit-form-fields-c i {
+    background: #111;
+}
+
+/* Popup */
+.jconfirm.jconfirm-modern .jconfirm-box {
+    background-color: #000;
+    box-shadow: 0 2px 35px 9px rgb(0 0 0 / 7%), 0 2px 3px -1px rgb(0 0 0 / 7%), 0 0 0 1px #333;
+}
+
+.jconfirm.jconfirm-modern .jconfirm-box div.jconfirm-closeIcon {
+    color: #d2d2d2;
+}
+
+.jconfirm.jconfirm-modern .jconfirm-box div.jconfirm-content,
+.jconfirm.jconfirm-modern .jconfirm-box,
+.jconfirm.jconfirm-modern .jconfirm-box div.jconfirm-title-c {
+    background: #000 !important;
+    border-color: #333;
+}
+
+.jconfirm .jconfirm-box .jconfirm-buttons button {
+    background: #111;
+    box-shadow: unset;
+    color: #d2d2d2 !important;
+    border-color: #333;
+}
+
+.jconfirm .jconfirm-box .jconfirm-buttons button:hover {
+    background: #333;
+    box-shadow: unset;
+    color: #d2d2d2 !important;
+}
+
+.jconfirm .jconfirm-box .dpr-modal-footer {
+    background: #222;
+    border: 0;
+}
+
+.dpr-join-form-login-register a, .dpr-user-nas a {
+    background: #171717;
+    border: 1px solid #000;
+    color: #fff
+}
+
+.dpr-join-form-login-register a:hover, .dpr-user-nas a:hover {
+    background: #000;
+    color: #fff
+}
+
+.dpr-join-form-area i {
+    background: #353535;
+    border: 1px solid #000;
+}
+
+.dpr-discu-box-header .dpr-discu-box-header-icons span {
+    color: #505050 !important;
+}
